@@ -1,0 +1,10 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 2EC6-1E1D
+
+ Directory of C:\Users\kalpana\Desktop\gitwork
+
+08-01-2019  09:26    <DIR>          .
+08-01-2019  09:26    <DIR>          ..
+08-01-2019  09:26                 0 one.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  345,303,748,608 bytes free
